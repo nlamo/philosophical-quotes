@@ -1,0 +1,25 @@
+npm install @mui/material @emotion/react @emotion/styled
+npm WARN @apideck/better-ajv-errors@0.3.3 requires a peer of ajv@>=8 but none is installed. You must install peer dependencies yourself.
+npm WARN fork-ts-checker-webpack-plugin@6.5.0 requires a peer of typescript@>= 2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+npm WARN @mui/material@5.5.3 requires a peer of react@^17.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @mui/material@5.5.3 requires a peer of react-dom@^17.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @mui/utils@5.5.3 requires a peer of react@^17.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @mui/system@5.5.3 requires a peer of react@^17.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @mui/base@5.0.0-alpha.74 requires a peer of react@^17.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @mui/base@5.0.0-alpha.74 requires a peer of react-dom@^17.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @mui/private-theming@5.5.3 requires a peer of react@^17.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @mui/styled-engine@5.5.2 requires a peer of react@^17.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.3.2 (node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+
++ @emotion/react@11.8.2
++ @emotion/styled@11.8.1
++ @mui/material@5.5.3
+added 34 packages from 22 contributors and audited 1456 packages in 19.635s
+
+176 packages are looking for funding
+  run `npm fund` for details
+
+found 1 moderate severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details

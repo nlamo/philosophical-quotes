@@ -10,4 +10,4 @@ It is, of course, debatable whether our _moods_ could be described with terms su
 
 If you'd like more insight into this line of thinking, check out Spinoza.
 
-- NL
+NL
