@@ -8,16 +8,14 @@ function Moods() {
   return (
     <LeftPanel>
       <FormControl>
-        <RadioGroup>
-          <MoodOption mood='Hopeful' />
+        <RadioGroup sx={{ mb: 2 }}>
+          <MoodOption mood='Optimistic' />
           <MoodOption mood='Pessimistic' />
-          <MoodOption mood='Analytical' />
+          <MoodOption mood='Analytic' />
           <MoodOption mood='Esoteric' />
           <MoodOption mood='Undefined' />
         </RadioGroup>
       </FormControl>
-      <br />
-      <br />
       <Button variant='outlined' color='secondary'>Select Mood</Button>
     </LeftPanel>
   );

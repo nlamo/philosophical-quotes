@@ -4,7 +4,7 @@ import Typography from '@mui/material/Typography';
 
 function QuotePanel() {
   return (
-    <Card variant='outlined' sx={{ margin: 10, padding: 2, width: 800, height: 375 }}>
+    <Card className='quote-panel' variant='outlined'>
       <CardContent>
         <Typography sx={{ fontSize: 20, fontWeight: 700 }}>
           Lorem ipsum dolor sit amet consectetur.

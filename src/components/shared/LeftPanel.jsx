@@ -3,8 +3,8 @@ import CardContent from '@mui/material/CardContent';
 
 function LeftPanel({ children }) {
   return (
-    <Card className='flex-center' sx={{ margin: 10, width: 250, height: 375 }}>
-      <CardContent>
+    <Card className='left-panel'>
+      <CardContent className='flex-center-column'>
         {children}
       </CardContent>
     </Card>  
