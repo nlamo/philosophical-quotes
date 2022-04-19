@@ -8,6 +8,7 @@ Instead of retrieving a quote that correlates directly with that particular mood
 
 It is, of course, debatable whether our _moods_ could be described with terms such as 'Esoteric' or 'Analytic', as these are really more states of thinking. However, since our relationship with knowledge is inherently affective, I don't personally draw a sharp distinction between moods and states of mind. 
 
-If you'd like more insight into this line of thinking, check out Spinoza.
-
-NL
+TODO
+*********
+- Finish populating the quotes JSON
+- Add the logic to add the quotes as determined by the mood selection
